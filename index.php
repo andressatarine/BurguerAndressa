@@ -1,5 +1,5 @@
 <body style="
-    background: black;
+    background: #0000006b;
 ">
 
 </html>
